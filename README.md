@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="/assets/images/brand/brandmark.png" width="60" alt="Paperloom SEO Demo Logo">
+<img src="/assets/images/brand/brandmark.png" width="60" alt="OMEGA Playground SEO Demo Logo">
 
-<h1>Paperloom SEO Demo</h1>
+<h1>OMEGA Playground SEO Demo</h1>
 
-<p><strong>Free <a href="https://playground.omegajs.dev">paperloom seo demo</a></strong> that Demo SEO repo for Paperloom, the quiet writing studio: capture from any tab, shape drafts at your desk, and publish pages you are proud of.</p>
+<p><strong>Free <a href="https://playground.omegajs.dev">omega playground seo demo</a></strong> that Demo SEO repo for OMEGA Playground, the live test surface for the OMEGA stack: every framework and integration exercised for real, on data nobody has to keep.</p>
 
 <p>
 <a href="https://playground.omegajs.dev"><img src="https://img.shields.io/badge/Download-Free-28a745?style=for-the-badge" alt="Download Free"></a>
@@ -23,7 +23,7 @@
 
 <br>
 
-> A quiet home for your writing: notes, drafts, and finished pages that follow you from browser to desk.
+> The live demo surface for the OMEGA stack: every framework, every integration, running for real on data nobody has to keep.
 
 <br>
 
